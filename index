@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Página con imagen a pantalla completa</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="fullscreen-bg">
+    <img src="imagen.jpg" alt="Imagen" class="fullscreen-bg__image">
+  </div>
+</body>
+</html>
