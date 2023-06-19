@@ -19,3 +19,10 @@ html, body {
   height: 100%;
   object-fit: cover;
 }
+
+/* Estilos para pantallas más pequeñas, como dispositivos móviles */
+@media (max-width: 768px) {
+  .fullscreen-bg__image {
+    object-position: center;
+  }
+}
